@@ -29,6 +29,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/2028-divya/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0283-move-zeroes) |
+| [0027-remove-element](https://github.com/2028-divya/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,5 @@ Happy Coding! 🚀
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0283-move-zeroes) |
+| [0027-remove-element](https://github.com/2028-divya/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
