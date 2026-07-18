@@ -31,6 +31,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0283-move-zeroes) |
 | [0027-remove-element](https://github.com/2028-divya/LeetCode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
+| [0053-maximum-subarray](https://github.com/2028-divya/LeetCode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +59,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/2028-divya/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/2028-divya/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
