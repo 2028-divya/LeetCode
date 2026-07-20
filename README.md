@@ -33,6 +33,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
 | [0053-maximum-subarray](https://github.com/2028-divya/LeetCode/tree/master/0053-maximum-subarray) |
 | [0867-transpose-matrix](https://github.com/2028-divya/LeetCode/tree/master/0867-transpose-matrix) |
+| [0048-rotate-image](https://github.com/2028-divya/LeetCode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
+| [0048-rotate-image](https://github.com/2028-divya/LeetCode/tree/master/0048-rotate-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/2028-divya/LeetCode/tree/master/0867-transpose-matrix) |
+| [0048-rotate-image](https://github.com/2028-divya/LeetCode/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
 | ------- |
