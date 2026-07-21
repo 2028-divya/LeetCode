@@ -34,6 +34,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/2028-divya/LeetCode/tree/master/0053-maximum-subarray) |
 | [0867-transpose-matrix](https://github.com/2028-divya/LeetCode/tree/master/0867-transpose-matrix) |
 | [0048-rotate-image](https://github.com/2028-divya/LeetCode/tree/master/0048-rotate-image) |
+| [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Happy Coding! 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0283-move-zeroes) |
 | [0027-remove-element](https://github.com/2028-divya/LeetCode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
+| [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
