@@ -35,6 +35,7 @@ Happy Coding! 🚀
 | [0867-transpose-matrix](https://github.com/2028-divya/LeetCode/tree/master/0867-transpose-matrix) |
 | [0048-rotate-image](https://github.com/2028-divya/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
+| [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,8 +79,10 @@ Happy Coding! 🚀
 | ------- |
 | [0867-transpose-matrix](https://github.com/2028-divya/LeetCode/tree/master/0867-transpose-matrix) |
 | [0048-rotate-image](https://github.com/2028-divya/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/2028-divya/LeetCode/tree/master/0867-transpose-matrix) |
+| [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
