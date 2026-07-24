@@ -36,6 +36,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/2028-divya/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
 | [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
+| [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Happy Coding! 🚀
 | ------- |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
 | [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,4 +92,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/2028-divya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
