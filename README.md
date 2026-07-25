@@ -37,6 +37,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
 | [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
 | [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
+| [0905-sort-array-by-parity](https://github.com/2028-divya/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0283-move-zeroes) |
 | [0027-remove-element](https://github.com/2028-divya/LeetCode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/2028-divya/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
 | [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
 | [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
+| [0905-sort-array-by-parity](https://github.com/2028-divya/LeetCode/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
