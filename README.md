@@ -38,6 +38,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
 | [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
 | [0905-sort-array-by-parity](https://github.com/2028-divya/LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0704-binary-search](https://github.com/2028-divya/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Happy Coding! 🚀
 | ------- |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/2028-divya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/2028-divya/LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
