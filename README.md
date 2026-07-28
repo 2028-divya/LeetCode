@@ -40,6 +40,7 @@ Happy Coding! 🚀
 | [0905-sort-array-by-parity](https://github.com/2028-divya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0704-binary-search](https://github.com/2028-divya/LeetCode/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/2028-divya/LeetCode/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Happy Coding! 🚀
 | [0374-guess-number-higher-or-lower](https://github.com/2028-divya/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/2028-divya/LeetCode/tree/master/0704-binary-search) |
 | [0035-search-insert-position](https://github.com/2028-divya/LeetCode/tree/master/0035-search-insert-position) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
