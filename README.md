@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | ------- |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
 | [0048-rotate-image](https://github.com/2028-divya/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/2028-divya/LeetCode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2028-divya/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/2028-divya/LeetCode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
