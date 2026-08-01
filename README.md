@@ -43,6 +43,7 @@ Happy Coding! 🚀
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/2028-divya/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Happy Coding! 🚀
 | [0852-peak-index-in-a-mountain-array](https://github.com/2028-divya/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/2028-divya/LeetCode/tree/master/0069-sqrtx) |
+| [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/2028-divya/LeetCode/tree/master/0053-maximum-subarray) |
+| [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -111,4 +114,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
