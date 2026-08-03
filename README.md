@@ -45,6 +45,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2028-divya/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [0540-single-element-in-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/2028-divya/LeetCode/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2028-divya/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [0540-single-element-in-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
