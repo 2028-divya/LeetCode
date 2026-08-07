@@ -62,6 +62,7 @@ Happy Coding! 🚀
 | [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/2028-divya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0151-reverse-words-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0125-valid-palindrome](https://github.com/2028-divya/LeetCode/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
@@ -139,4 +140,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0125-valid-palindrome](https://github.com/2028-divya/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
