@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/2028-divya/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
+| [0242-valid-anagram](https://github.com/2028-divya/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Happy Coding! 🚀
 | [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
 | [0905-sort-array-by-parity](https://github.com/2028-divya/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [1552-magnetic-force-between-two-balls](https://github.com/2028-divya/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [0242-valid-anagram](https://github.com/2028-divya/LeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -142,4 +144,5 @@ Happy Coding! 🚀
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0125-valid-palindrome](https://github.com/2028-divya/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/2028-divya/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
