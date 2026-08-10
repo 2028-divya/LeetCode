@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/2028-divya/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2028-divya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Happy Coding! 🚀
 | [0540-single-element-in-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/2028-divya/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2028-divya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
