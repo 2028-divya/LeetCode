@@ -50,6 +50,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/2028-divya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/2028-divya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
 | [0242-valid-anagram](https://github.com/2028-divya/LeetCode/tree/master/0242-valid-anagram) |
 | [0217-contains-duplicate](https://github.com/2028-divya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +70,7 @@ Happy Coding! 🚀
 | [0151-reverse-words-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0125-valid-palindrome](https://github.com/2028-divya/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/2028-divya/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +95,7 @@ Happy Coding! 🚀
 | [0074-search-a-2d-matrix](https://github.com/2028-divya/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2028-divya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +110,7 @@ Happy Coding! 🚀
 | [1552-magnetic-force-between-two-balls](https://github.com/2028-divya/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [0242-valid-anagram](https://github.com/2028-divya/LeetCode/tree/master/0242-valid-anagram) |
 | [0217-contains-duplicate](https://github.com/2028-divya/LeetCode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
