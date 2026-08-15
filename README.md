@@ -51,6 +51,7 @@ Happy Coding! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/2028-divya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0136-single-number](https://github.com/2028-divya/LeetCode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
+| [0136-single-number](https://github.com/2028-divya/LeetCode/tree/master/0136-single-number) |
 ## Sorting
 |  |
 | ------- |
