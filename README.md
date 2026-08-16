@@ -165,8 +165,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
+| [0206-reverse-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
