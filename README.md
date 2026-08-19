@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0141-linked-list-cycle](https://github.com/2028-divya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Happy Coding! 🚀
 | ------- |
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
 | [0206-reverse-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -179,8 +181,13 @@ Happy Coding! 🚀
 | [0206-reverse-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0141-linked-list-cycle](https://github.com/2028-divya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/2028-divya/LeetCode/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
