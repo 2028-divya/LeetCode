@@ -52,6 +52,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/2028-divya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0136-single-number](https://github.com/2028-divya/LeetCode/tree/master/0136-single-number) |
+| [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Happy Coding! 🚀
 | [0876-middle-of-the-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2028-divya/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/2028-divya/LeetCode/tree/master/0242-valid-anagram) |
 | [0217-contains-duplicate](https://github.com/2028-divya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
