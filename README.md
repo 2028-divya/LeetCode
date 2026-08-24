@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | ------- |
 | [0867-transpose-matrix](https://github.com/2028-divya/LeetCode/tree/master/0867-transpose-matrix) |
 | [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/2028-divya/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Interactive
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [0083-remove-duplicates-from-sorted-list](https://github.com/2028-divya/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2028-divya/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0328-odd-even-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/2028-divya/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
