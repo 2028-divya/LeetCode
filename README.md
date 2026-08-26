@@ -89,6 +89,7 @@ Happy Coding! 🚀
 | [0069-sqrtx](https://github.com/2028-divya/LeetCode/tree/master/0069-sqrtx) |
 | [0009-palindrome-number](https://github.com/2028-divya/LeetCode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
+| [0002-add-two-numbers](https://github.com/2028-divya/LeetCode/tree/master/0002-add-two-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
 | [0206-reverse-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0002-add-two-numbers](https://github.com/2028-divya/LeetCode/tree/master/0002-add-two-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Happy Coding! 🚀
 | [0328-odd-even-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/2028-divya/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2028-divya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0002-add-two-numbers](https://github.com/2028-divya/LeetCode/tree/master/0002-add-two-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
