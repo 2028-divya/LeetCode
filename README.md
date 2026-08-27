@@ -63,6 +63,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0141-linked-list-cycle](https://github.com/2028-divya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2028-divya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/2028-divya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Happy Coding! 🚀
 | [0019-remove-nth-node-from-end-of-list](https://github.com/2028-divya/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2028-divya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/2028-divya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Math
 |  |
 | ------- |
@@ -199,10 +201,12 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/2028-divya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0002-add-two-numbers](https://github.com/2028-divya/LeetCode/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2028-divya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/2028-divya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/2028-divya/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/2028-divya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
