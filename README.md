@@ -90,6 +90,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/2028-divya/LeetCode/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
 | [0002-add-two-numbers](https://github.com/2028-divya/LeetCode/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2028-divya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Happy Coding! 🚀
 | [2181-merge-nodes-in-between-zeros](https://github.com/2028-divya/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2028-divya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0002-add-two-numbers](https://github.com/2028-divya/LeetCode/tree/master/0002-add-two-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2028-divya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
