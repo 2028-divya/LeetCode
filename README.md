@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/2028-divya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/2028-divya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0061-rotate-list](https://github.com/2028-divya/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/2028-divya/LeetCode/tree/master/0086-partition-list) |
 ## Math
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/2028-divya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/2028-divya/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0061-rotate-list](https://github.com/2028-divya/LeetCode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/2028-divya/LeetCode/tree/master/0086-partition-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
