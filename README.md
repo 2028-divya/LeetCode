@@ -212,6 +212,7 @@ Happy Coding! 🚀
 | [0061-rotate-list](https://github.com/2028-divya/LeetCode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/2028-divya/LeetCode/tree/master/0086-partition-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
