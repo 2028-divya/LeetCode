@@ -218,6 +218,7 @@ Happy Coding! 🚀
 | [0725-split-linked-list-in-parts](https://github.com/2028-divya/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
 | [0092-reverse-linked-list-ii](https://github.com/2028-divya/LeetCode/tree/master/0092-reverse-linked-list-ii) |
+| [0707-design-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0707-design-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -228,4 +229,8 @@ Happy Coding! 🚀
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
