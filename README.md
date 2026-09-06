@@ -97,6 +97,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
 | [0002-add-two-numbers](https://github.com/2028-divya/LeetCode/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2028-divya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Happy Coding! 🚀
 | ------- |
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/2028-divya/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/2028-divya/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/2028-divya/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
