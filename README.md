@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [0086-partition-list](https://github.com/2028-divya/LeetCode/tree/master/0086-partition-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Happy Coding! 🚀
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
 | [0092-reverse-linked-list-ii](https://github.com/2028-divya/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0707-design-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
