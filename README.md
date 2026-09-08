@@ -194,6 +194,7 @@ Happy Coding! 🚀
 | [0203-remove-linked-list-elements](https://github.com/2028-divya/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
+| [0025-reverse-nodes-in-k-group](https://github.com/2028-divya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Memoization
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Happy Coding! 🚀
 | [0092-reverse-linked-list-ii](https://github.com/2028-divya/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0707-design-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/2028-divya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
