@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0136-single-number](https://github.com/2028-divya/LeetCode/tree/master/0136-single-number) |
 | [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/2028-divya/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/2028-divya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0875-koko-eating-bananas](https://github.com/2028-divya/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
