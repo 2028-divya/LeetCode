@@ -186,6 +186,7 @@ Happy Coding! 🚀
 | [0242-valid-anagram](https://github.com/2028-divya/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/2028-divya/LeetCode/tree/master/0344-reverse-string) |
 | [0020-valid-parentheses](https://github.com/2028-divya/LeetCode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2028-divya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Happy Coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
 | [0020-valid-parentheses](https://github.com/2028-divya/LeetCode/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2028-divya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
