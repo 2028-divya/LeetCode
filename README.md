@@ -54,6 +54,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/2028-divya/LeetCode/tree/master/0136-single-number) |
 | [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/2028-divya/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ Happy Coding! 🚀
 | [0867-transpose-matrix](https://github.com/2028-divya/LeetCode/tree/master/0867-transpose-matrix) |
 | [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/2028-divya/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
 ## Interactive
 |  |
 | ------- |
@@ -242,6 +244,7 @@ Happy Coding! 🚀
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
 | [0020-valid-parentheses](https://github.com/2028-divya/LeetCode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2028-divya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
 ## Design
 |  |
 | ------- |
