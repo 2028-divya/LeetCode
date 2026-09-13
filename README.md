@@ -201,6 +201,7 @@ Happy Coding! 🚀
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
 | [0025-reverse-nodes-in-k-group](https://github.com/2028-divya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Happy Coding! 🚀
 | [0707-design-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/2028-divya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/2028-divya/LeetCode/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2028-divya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -253,4 +256,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2028-divya/LeetCode/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
