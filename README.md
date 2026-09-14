@@ -55,6 +55,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/2028-divya/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/2028-divya/LeetCode/tree/master/0002-add-two-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2028-divya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -260,4 +262,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
