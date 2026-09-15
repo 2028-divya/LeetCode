@@ -236,6 +236,7 @@ Happy Coding! 🚀
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/2028-divya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -274,4 +275,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
