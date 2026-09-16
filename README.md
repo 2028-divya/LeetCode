@@ -237,6 +237,7 @@ Happy Coding! 🚀
 | [0025-reverse-nodes-in-k-group](https://github.com/2028-divya/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/2028-divya/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
