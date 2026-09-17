@@ -103,6 +103,7 @@ Happy Coding! 🚀
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2028-divya/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ Happy Coding! 🚀
 | [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/2028-divya/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -252,6 +254,7 @@ Happy Coding! 🚀
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2028-divya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Design
 |  |
 | ------- |
