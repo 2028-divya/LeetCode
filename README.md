@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0141-linked-list-cycle](https://github.com/2028-divya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2028-divya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/2028-divya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/2028-divya/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Happy Coding! 🚀
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/2028-divya/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/2028-divya/LeetCode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/2028-divya/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
