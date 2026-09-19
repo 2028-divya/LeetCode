@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [0875-koko-eating-bananas](https://github.com/2028-divya/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [0066-plus-one](https://github.com/2028-divya/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Happy Coding! 🚀
 | [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [0066-plus-one](https://github.com/2028-divya/LeetCode/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
