@@ -57,6 +57,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0066-plus-one](https://github.com/2028-divya/LeetCode/tree/master/0066-plus-one) |
+| [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Happy Coding! 🚀
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [0143-reorder-list](https://github.com/2028-divya/LeetCode/tree/master/0143-reorder-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -144,6 +146,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/2028-divya/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
