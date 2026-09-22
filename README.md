@@ -58,6 +58,7 @@ Happy Coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [0066-plus-one](https://github.com/2028-divya/LeetCode/tree/master/0066-plus-one) |
 | [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Happy Coding! 🚀
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/2028-divya/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Happy Coding! 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/2028-divya/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +151,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
