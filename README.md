@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [0066-plus-one](https://github.com/2028-divya/LeetCode/tree/master/0066-plus-one) |
 | [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Happy Coding! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0680-valid-palindrome-ii](https://github.com/2028-divya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 ## Divide and Conquer
 |  |
 | ------- |
