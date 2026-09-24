@@ -60,6 +60,7 @@ Happy Coding! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/2028-divya/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2028-divya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Happy Coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/2028-divya/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [0066-plus-one](https://github.com/2028-divya/LeetCode/tree/master/0066-plus-one) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2028-divya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
