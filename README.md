@@ -61,6 +61,7 @@ Happy Coding! 🚀
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2028-divya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [0485-max-consecutive-ones](https://github.com/2028-divya/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
