@@ -62,6 +62,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2028-divya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0485-max-consecutive-ones](https://github.com/2028-divya/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Happy Coding! 🚀
 | [0680-valid-palindrome-ii](https://github.com/2028-divya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Happy Coding! 🚀
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [0066-plus-one](https://github.com/2028-divya/LeetCode/tree/master/0066-plus-one) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2028-divya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
