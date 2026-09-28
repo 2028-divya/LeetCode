@@ -215,6 +215,7 @@ Happy Coding! 🚀
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2028-divya/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/2028-divya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -280,6 +281,7 @@ Happy Coding! 🚀
 | [2487-remove-nodes-from-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/2028-divya/LeetCode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -289,6 +291,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/2028-divya/LeetCode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
