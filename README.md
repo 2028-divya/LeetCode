@@ -63,6 +63,7 @@ Happy Coding! 🚀
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2028-divya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0485-max-consecutive-ones](https://github.com/2028-divya/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
+| [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/2028-divya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/2028-divya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/2028-divya/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Happy Coding! 🚀
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
+| [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
@@ -141,6 +144,7 @@ Happy Coding! 🚀
 | [0349-intersection-of-two-arrays](https://github.com/2028-divya/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/2028-divya/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
