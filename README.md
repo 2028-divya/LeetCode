@@ -65,6 +65,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2028-divya/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/2028-divya/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/2028-divya/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/2028-divya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/2028-divya/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
