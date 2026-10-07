@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [0643-maximum-average-subarray-i](https://github.com/2028-divya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0766-toeplitz-matrix](https://github.com/2028-divya/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/2028-divya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Happy Coding! 🚀
 | [0240-search-a-2d-matrix-ii](https://github.com/2028-divya/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/2028-divya/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [0766-toeplitz-matrix](https://github.com/2028-divya/LeetCode/tree/master/0766-toeplitz-matrix) |
+| [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Simulation
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/2028-divya/LeetCode/tree/master/0054-spiral-matrix) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/2028-divya/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
+| [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
 ## Interactive
 |  |
 | ------- |
