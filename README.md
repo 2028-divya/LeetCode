@@ -233,6 +233,7 @@ Happy Coding! 🚀
 | [0680-valid-palindrome-ii](https://github.com/2028-divya/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2028-divya/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Recursion
 |  |
 | ------- |
@@ -339,4 +340,5 @@ Happy Coding! 🚀
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2028-divya/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0643-maximum-average-subarray-i](https://github.com/2028-divya/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/2028-divya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2028-divya/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
