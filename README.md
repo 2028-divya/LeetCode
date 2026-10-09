@@ -70,6 +70,7 @@ Happy Coding! 🚀
 | [0766-toeplitz-matrix](https://github.com/2028-divya/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/2028-divya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Happy Coding! 🚀
 | [0138-copy-list-with-random-pointer](https://github.com/2028-divya/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2028-divya/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -196,6 +198,7 @@ Happy Coding! 🚀
 | [1380-lucky-numbers-in-a-matrix](https://github.com/2028-divya/LeetCode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [0766-toeplitz-matrix](https://github.com/2028-divya/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
