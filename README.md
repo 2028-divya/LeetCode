@@ -71,6 +71,7 @@ Happy Coding! 🚀
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/2028-divya/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/2028-divya/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ Happy Coding! 🚀
 | [0053-maximum-subarray](https://github.com/2028-divya/LeetCode/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
+| [0118-pascals-triangle](https://github.com/2028-divya/LeetCode/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
