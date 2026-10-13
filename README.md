@@ -73,6 +73,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/2028-divya/LeetCode/tree/master/0118-pascals-triangle) |
 | [1052-grumpy-bookstore-owner](https://github.com/2028-divya/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Happy Coding! 🚀
 | [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2028-divya/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
