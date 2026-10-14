@@ -74,6 +74,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/2028-divya/LeetCode/tree/master/0118-pascals-triangle) |
 | [1052-grumpy-bookstore-owner](https://github.com/2028-divya/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Happy Coding! 🚀
 | [0875-koko-eating-bananas](https://github.com/2028-divya/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Happy Coding! 🚀
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/2028-divya/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/2028-divya/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
