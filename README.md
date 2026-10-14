@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [1052-grumpy-bookstore-owner](https://github.com/2028-divya/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/2028-divya/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/2028-divya/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/2028-divya/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Divide and Conquer
 |  |
 | ------- |
