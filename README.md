@@ -76,6 +76,7 @@ Happy Coding! 🚀
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2028-divya/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0119-pascals-triangle-ii](https://github.com/2028-divya/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Happy Coding! 🚀
 | [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
 | [0118-pascals-triangle](https://github.com/2028-divya/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/2028-divya/LeetCode/tree/master/0119-pascals-triangle-ii) |
 ## Matrix
 |  |
 | ------- |
