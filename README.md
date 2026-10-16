@@ -359,4 +359,12 @@ Happy Coding! 🚀
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2028-divya/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2028-divya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1052-grumpy-bookstore-owner](https://github.com/2028-divya/LeetCode/tree/master/1052-grumpy-bookstore-owner) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
