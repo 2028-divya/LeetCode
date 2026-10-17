@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2028-divya/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0119-pascals-triangle-ii](https://github.com/2028-divya/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/2028-divya/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0414-third-maximum-number](https://github.com/2028-divya/LeetCode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Happy Coding! 🚀
 | [3536-maximum-product-of-two-digits](https://github.com/2028-divya/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2028-divya/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0414-third-maximum-number](https://github.com/2028-divya/LeetCode/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
