@@ -79,6 +79,7 @@ Happy Coding! 🚀
 | [0119-pascals-triangle-ii](https://github.com/2028-divya/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/2028-divya/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0414-third-maximum-number](https://github.com/2028-divya/LeetCode/tree/master/0414-third-maximum-number) |
+| [1480-running-sum-of-1d-array](https://github.com/2028-divya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/2028-divya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
