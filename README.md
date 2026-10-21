@@ -96,6 +96,7 @@ Happy Coding! 🚀
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/2028-divya/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/2028-divya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2028-divya/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2028-divya/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2028-divya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/2028-divya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Recursion
 |  |
 | ------- |
