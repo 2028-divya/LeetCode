@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0744-find-smallest-letter-greater-than-target](https://github.com/2028-divya/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0414-third-maximum-number](https://github.com/2028-divya/LeetCode/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/2028-divya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [0011-container-with-most-water](https://github.com/2028-divya/LeetCode/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/2028-divya/LeetCode/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
+| [0011-container-with-most-water](https://github.com/2028-divya/LeetCode/tree/master/0011-container-with-most-water) |
 ## Math
 |  |
 | ------- |
@@ -238,6 +240,7 @@ Happy Coding! 🚀
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/2028-divya/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0011-container-with-most-water](https://github.com/2028-divya/LeetCode/tree/master/0011-container-with-most-water) |
 ## Prefix Sum
 |  |
 | ------- |
