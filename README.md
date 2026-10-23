@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0414-third-maximum-number](https://github.com/2028-divya/LeetCode/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/2028-divya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [0011-container-with-most-water](https://github.com/2028-divya/LeetCode/tree/master/0011-container-with-most-water) |
+| [1528-shuffle-string](https://github.com/2028-divya/LeetCode/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -261,6 +262,7 @@ Happy Coding! 🚀
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/2028-divya/LeetCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2028-divya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2028-divya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1528-shuffle-string](https://github.com/2028-divya/LeetCode/tree/master/1528-shuffle-string) |
 ## Recursion
 |  |
 | ------- |
