@@ -236,6 +236,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/2028-divya/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
 | ------- |
@@ -263,6 +264,7 @@ Happy Coding! 🚀
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2028-divya/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2028-divya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1528-shuffle-string](https://github.com/2028-divya/LeetCode/tree/master/1528-shuffle-string) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/2028-divya/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Recursion
 |  |
 | ------- |
