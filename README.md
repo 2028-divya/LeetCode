@@ -130,6 +130,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
 | [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 | [0011-container-with-most-water](https://github.com/2028-divya/LeetCode/tree/master/0011-container-with-most-water) |
+| [0443-string-compression](https://github.com/2028-divya/LeetCode/tree/master/0443-string-compression) |
 ## Math
 |  |
 | ------- |
@@ -265,6 +266,7 @@ Happy Coding! 🚀
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2028-divya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1528-shuffle-string](https://github.com/2028-divya/LeetCode/tree/master/1528-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/2028-divya/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [0443-string-compression](https://github.com/2028-divya/LeetCode/tree/master/0443-string-compression) |
 ## Recursion
 |  |
 | ------- |
