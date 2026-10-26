@@ -131,6 +131,7 @@ Happy Coding! 🚀
 | [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 | [0011-container-with-most-water](https://github.com/2028-divya/LeetCode/tree/master/0011-container-with-most-water) |
 | [0443-string-compression](https://github.com/2028-divya/LeetCode/tree/master/0443-string-compression) |
+| [0005-longest-palindromic-substring](https://github.com/2028-divya/LeetCode/tree/master/0005-longest-palindromic-substring) |
 ## Math
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Happy Coding! 🚀
 | [0509-fibonacci-number](https://github.com/2028-divya/LeetCode/tree/master/0509-fibonacci-number) |
 | [0118-pascals-triangle](https://github.com/2028-divya/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/2028-divya/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0005-longest-palindromic-substring](https://github.com/2028-divya/LeetCode/tree/master/0005-longest-palindromic-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Happy Coding! 🚀
 | [1528-shuffle-string](https://github.com/2028-divya/LeetCode/tree/master/1528-shuffle-string) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/2028-divya/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [0443-string-compression](https://github.com/2028-divya/LeetCode/tree/master/0443-string-compression) |
+| [0005-longest-palindromic-substring](https://github.com/2028-divya/LeetCode/tree/master/0005-longest-palindromic-substring) |
 ## Recursion
 |  |
 | ------- |
@@ -384,4 +387,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/2028-divya/LeetCode/tree/master/0075-sort-colors) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/2028-divya/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
