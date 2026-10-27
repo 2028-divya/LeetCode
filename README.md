@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [1480-running-sum-of-1d-array](https://github.com/2028-divya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [0011-container-with-most-water](https://github.com/2028-divya/LeetCode/tree/master/0011-container-with-most-water) |
 | [1528-shuffle-string](https://github.com/2028-divya/LeetCode/tree/master/1528-shuffle-string) |
+| [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2028-divya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
 | ------- |
@@ -270,6 +272,7 @@ Happy Coding! 🚀
 | [1704-determine-if-string-halves-are-alike](https://github.com/2028-divya/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [0443-string-compression](https://github.com/2028-divya/LeetCode/tree/master/0443-string-compression) |
 | [0005-longest-palindromic-substring](https://github.com/2028-divya/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
 ## Recursion
 |  |
 | ------- |
