@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/2028-divya/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
+| [0383-ransom-note](https://github.com/2028-divya/LeetCode/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Happy Coding! 🚀
 | ------- |
 | [1051-height-checker](https://github.com/2028-divya/LeetCode/tree/master/1051-height-checker) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/2028-divya/LeetCode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [0383-ransom-note](https://github.com/2028-divya/LeetCode/tree/master/0383-ransom-note) |
 ## Greedy
 |  |
 | ------- |
@@ -276,6 +278,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
 | [1768-merge-strings-alternately](https://github.com/2028-divya/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1108-defanging-an-ip-address](https://github.com/2028-divya/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [0383-ransom-note](https://github.com/2028-divya/LeetCode/tree/master/0383-ransom-note) |
 ## Recursion
 |  |
 | ------- |
