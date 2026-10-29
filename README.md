@@ -153,6 +153,7 @@ Happy Coding! 🚀
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/2028-divya/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/2028-divya/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [0415-add-strings](https://github.com/2028-divya/LeetCode/tree/master/0415-add-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +236,7 @@ Happy Coding! 🚀
 | [2181-merge-nodes-in-between-zeros](https://github.com/2028-divya/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
 | [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0415-add-strings](https://github.com/2028-divya/LeetCode/tree/master/0415-add-strings) |
 ## Interactive
 |  |
 | ------- |
@@ -279,6 +281,7 @@ Happy Coding! 🚀
 | [1768-merge-strings-alternately](https://github.com/2028-divya/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1108-defanging-an-ip-address](https://github.com/2028-divya/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [0383-ransom-note](https://github.com/2028-divya/LeetCode/tree/master/0383-ransom-note) |
+| [0415-add-strings](https://github.com/2028-divya/LeetCode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
