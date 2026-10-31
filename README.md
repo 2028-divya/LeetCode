@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/2028-divya/LeetCode/tree/master/0011-container-with-most-water) |
 | [1528-shuffle-string](https://github.com/2028-divya/LeetCode/tree/master/1528-shuffle-string) |
 | [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/2028-divya/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +204,7 @@ Happy Coding! 🚀
 | [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/2028-divya/LeetCode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0414-third-maximum-number](https://github.com/2028-divya/LeetCode/tree/master/0414-third-maximum-number) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/2028-divya/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 ## Divide and Conquer
 |  |
 | ------- |
