@@ -287,6 +287,7 @@ Happy Coding! 🚀
 | [0383-ransom-note](https://github.com/2028-divya/LeetCode/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/2028-divya/LeetCode/tree/master/0415-add-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0058-length-of-last-word](https://github.com/2028-divya/LeetCode/tree/master/0058-length-of-last-word) |
 ## Recursion
 |  |
 | ------- |
