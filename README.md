@@ -104,6 +104,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
 | [0383-ransom-note](https://github.com/2028-divya/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/2028-divya/LeetCode/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/2028-divya/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [0415-add-strings](https://github.com/2028-divya/LeetCode/tree/master/0415-add-strings) |
+| [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Happy Coding! 🚀
 | [0058-length-of-last-word](https://github.com/2028-divya/LeetCode/tree/master/0058-length-of-last-word) |
 | [0541-reverse-string-ii](https://github.com/2028-divya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2028-divya/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
