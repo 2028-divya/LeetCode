@@ -105,6 +105,7 @@ Happy Coding! 🚀
 | [0383-ransom-note](https://github.com/2028-divya/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/2028-divya/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
@@ -295,6 +296,7 @@ Happy Coding! 🚀
 | [0541-reverse-string-ii](https://github.com/2028-divya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2028-divya/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
+| [0771-jewels-and-stones](https://github.com/2028-divya/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Recursion
 |  |
 | ------- |
