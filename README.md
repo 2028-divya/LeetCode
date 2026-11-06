@@ -84,6 +84,7 @@ Happy Coding! 🚀
 | [1528-shuffle-string](https://github.com/2028-divya/LeetCode/tree/master/1528-shuffle-string) |
 | [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/2028-divya/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2028-divya/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -297,6 +298,7 @@ Happy Coding! 🚀
 | [0557-reverse-words-in-a-string-iii](https://github.com/2028-divya/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/2028-divya/LeetCode/tree/master/0771-jewels-and-stones) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2028-divya/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Recursion
 |  |
 | ------- |
