@@ -85,6 +85,7 @@ Happy Coding! 🚀
 | [0500-keyboard-row](https://github.com/2028-divya/LeetCode/tree/master/0500-keyboard-row) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/2028-divya/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2028-divya/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/2028-divya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Happy Coding! 🚀
 | [0118-pascals-triangle](https://github.com/2028-divya/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/2028-divya/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0005-longest-palindromic-substring](https://github.com/2028-divya/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/2028-divya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
