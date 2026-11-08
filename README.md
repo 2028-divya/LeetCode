@@ -301,6 +301,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/2028-divya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2028-divya/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [0520-detect-capital](https://github.com/2028-divya/LeetCode/tree/master/0520-detect-capital) |
 ## Recursion
 |  |
 | ------- |
