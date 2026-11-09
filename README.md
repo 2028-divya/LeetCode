@@ -163,6 +163,7 @@ Happy Coding! 🚀
 | [3536-maximum-product-of-two-digits](https://github.com/2028-divya/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [0415-add-strings](https://github.com/2028-divya/LeetCode/tree/master/0415-add-strings) |
 | [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/2028-divya/LeetCode/tree/master/0268-missing-number) |
 | [0136-single-number](https://github.com/2028-divya/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/2028-divya/LeetCode/tree/master/0231-power-of-two) |
+| [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +250,7 @@ Happy Coding! 🚀
 | [0682-baseball-game](https://github.com/2028-divya/LeetCode/tree/master/0682-baseball-game) |
 | [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0415-add-strings](https://github.com/2028-divya/LeetCode/tree/master/0415-add-strings) |
+| [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
 ## Interactive
 |  |
 | ------- |
@@ -302,6 +305,7 @@ Happy Coding! 🚀
 | [0771-jewels-and-stones](https://github.com/2028-divya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2028-divya/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [0520-detect-capital](https://github.com/2028-divya/LeetCode/tree/master/0520-detect-capital) |
+| [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
