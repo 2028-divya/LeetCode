@@ -144,6 +144,7 @@ Happy Coding! 🚀
 | [1768-merge-strings-alternately](https://github.com/2028-divya/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [0541-reverse-string-ii](https://github.com/2028-divya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2028-divya/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Happy Coding! 🚀
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2028-divya/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [0520-detect-capital](https://github.com/2028-divya/LeetCode/tree/master/0520-detect-capital) |
 | [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -431,4 +433,20 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
