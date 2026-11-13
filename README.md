@@ -197,6 +197,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/2028-divya/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0190-reverse-bits](https://github.com/2028-divya/LeetCode/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/2028-divya/LeetCode/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -234,6 +235,7 @@ Happy Coding! 🚀
 | [0119-pascals-triangle-ii](https://github.com/2028-divya/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0005-longest-palindromic-substring](https://github.com/2028-divya/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2028-divya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/2028-divya/LeetCode/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |
