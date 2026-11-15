@@ -200,6 +200,7 @@ Happy Coding! 🚀
 | [0190-reverse-bits](https://github.com/2028-divya/LeetCode/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/2028-divya/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/2028-divya/LeetCode/tree/master/0342-power-of-four) |
+| [1009-complement-of-base-10-integer](https://github.com/2028-divya/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
 |  |
 | ------- |
