@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [2164-sort-even-and-odd-indices-independently](https://github.com/2028-divya/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2028-divya/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2028-divya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/2028-divya/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Happy Coding! 🚀
 | [2540-minimum-common-value](https://github.com/2028-divya/LeetCode/tree/master/2540-minimum-common-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/2028-divya/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/2028-divya/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/2028-divya/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
