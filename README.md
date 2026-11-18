@@ -204,6 +204,7 @@ Happy Coding! 🚀
 | [0342-power-of-four](https://github.com/2028-divya/LeetCode/tree/master/0342-power-of-four) |
 | [1009-complement-of-base-10-integer](https://github.com/2028-divya/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [0868-binary-gap](https://github.com/2028-divya/LeetCode/tree/master/0868-binary-gap) |
+| [0461-hamming-distance](https://github.com/2028-divya/LeetCode/tree/master/0461-hamming-distance) |
 ## Sorting
 |  |
 | ------- |
