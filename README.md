@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/2028-divya/LeetCode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Binary Search
 |  |
 | ------- |
@@ -205,6 +206,7 @@ Happy Coding! 🚀
 | [1009-complement-of-base-10-integer](https://github.com/2028-divya/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [0868-binary-gap](https://github.com/2028-divya/LeetCode/tree/master/0868-binary-gap) |
 | [0461-hamming-distance](https://github.com/2028-divya/LeetCode/tree/master/0461-hamming-distance) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -321,6 +323,7 @@ Happy Coding! 🚀
 | [0520-detect-capital](https://github.com/2028-divya/LeetCode/tree/master/0520-detect-capital) |
 | [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
