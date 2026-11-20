@@ -168,6 +168,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/2028-divya/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0371-sum-of-two-integers](https://github.com/2028-divya/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -207,6 +208,7 @@ Happy Coding! 🚀
 | [0868-binary-gap](https://github.com/2028-divya/LeetCode/tree/master/0868-binary-gap) |
 | [0461-hamming-distance](https://github.com/2028-divya/LeetCode/tree/master/0461-hamming-distance) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0371-sum-of-two-integers](https://github.com/2028-divya/LeetCode/tree/master/0371-sum-of-two-integers) |
 ## Sorting
 |  |
 | ------- |
