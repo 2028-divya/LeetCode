@@ -169,6 +169,7 @@ Happy Coding! 🚀
 | [0342-power-of-four](https://github.com/2028-divya/LeetCode/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0371-sum-of-two-integers](https://github.com/2028-divya/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2028-divya/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Happy Coding! 🚀
 | [0461-hamming-distance](https://github.com/2028-divya/LeetCode/tree/master/0461-hamming-distance) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0371-sum-of-two-integers](https://github.com/2028-divya/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2028-divya/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sorting
 |  |
 | ------- |
@@ -468,4 +470,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2028-divya/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
