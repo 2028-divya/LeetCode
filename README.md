@@ -87,6 +87,7 @@ Happy Coding! 🚀
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2028-divya/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2028-divya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2028-divya/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Happy Coding! 🚀
 | [0387-first-unique-character-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/2028-divya/LeetCode/tree/master/0771-jewels-and-stones) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,6 +213,7 @@ Happy Coding! 🚀
 | [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0371-sum-of-two-integers](https://github.com/2028-divya/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2028-divya/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -474,4 +477,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2028-divya/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
