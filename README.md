@@ -88,6 +88,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/2028-divya/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/2028-divya/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0832-flipping-an-image](https://github.com/2028-divya/LeetCode/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Happy Coding! 🚀
 | [0541-reverse-string-ii](https://github.com/2028-divya/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/2028-divya/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2028-divya/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0832-flipping-an-image](https://github.com/2028-divya/LeetCode/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Happy Coding! 🚀
 | [0371-sum-of-two-integers](https://github.com/2028-divya/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2028-divya/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0832-flipping-an-image](https://github.com/2028-divya/LeetCode/tree/master/0832-flipping-an-image) |
 ## Sorting
 |  |
 | ------- |
@@ -264,6 +267,7 @@ Happy Coding! 🚀
 | [0766-toeplitz-matrix](https://github.com/2028-divya/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0073-set-matrix-zeroes](https://github.com/2028-divya/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0832-flipping-an-image](https://github.com/2028-divya/LeetCode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
@@ -274,6 +278,7 @@ Happy Coding! 🚀
 | [0498-diagonal-traverse](https://github.com/2028-divya/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0415-add-strings](https://github.com/2028-divya/LeetCode/tree/master/0415-add-strings) |
 | [0067-add-binary](https://github.com/2028-divya/LeetCode/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/2028-divya/LeetCode/tree/master/0832-flipping-an-image) |
 ## Interactive
 |  |
 | ------- |
