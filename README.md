@@ -90,6 +90,7 @@ Happy Coding! 🚀
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0832-flipping-an-image](https://github.com/2028-divya/LeetCode/tree/master/0832-flipping-an-image) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/2028-divya/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2028-divya/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/2028-divya/LeetCode/tree/master/0013-roman-to-integer) |
 | [0771-jewels-and-stones](https://github.com/2028-divya/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2028-divya/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ Happy Coding! 🚀
 | [0405-convert-a-number-to-hexadecimal](https://github.com/2028-divya/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0371-sum-of-two-integers](https://github.com/2028-divya/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/2028-divya/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2028-divya/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,6 +222,7 @@ Happy Coding! 🚀
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/2028-divya/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0832-flipping-an-image](https://github.com/2028-divya/LeetCode/tree/master/0832-flipping-an-image) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/2028-divya/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2028-divya/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Sorting
 |  |
 | ------- |
@@ -303,6 +307,7 @@ Happy Coding! 🚀
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/2028-divya/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/2028-divya/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2028-divya/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## String
 |  |
 | ------- |
