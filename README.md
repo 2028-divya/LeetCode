@@ -224,6 +224,7 @@ Happy Coding! 🚀
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/2028-divya/LeetCode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/2028-divya/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/2028-divya/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/2028-divya/LeetCode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Sorting
 |  |
 | ------- |
